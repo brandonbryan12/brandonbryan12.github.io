@@ -475,11 +475,3 @@ footer .footer-below {
 #gmaps #container iframe {
     pointer-events: none;
 }
-
-.gm-style .place-card {
-    display: none;
-}
-
-.gmnoprint {
-    display: none;
-}
