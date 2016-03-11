@@ -471,3 +471,7 @@ footer .footer-below {
 #gmaps {
     padding: 0px;
 }
+
+#gmaps #container iframe {
+    pointer-events: none;
+}
