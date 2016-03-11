@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: cabin.png
+img: druplicon.jpg
 alt: image-alt
 project-date: December 2014
 client: Skvare
