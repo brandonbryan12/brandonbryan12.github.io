@@ -43,7 +43,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/brandonferrell
   - title: stack-overflow
-    url: https://stackoverflow.com/users/3291067/brandacus
+    url: https://stackoverflow.com/users/3291067/brandacus?tab=profile
   - title: github
     url: http://github.com/brandonbryan12
 
@@ -53,7 +53,7 @@ address:
   - line: Arlington, TX 75080
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
