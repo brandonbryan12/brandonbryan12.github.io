@@ -455,3 +455,15 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+#top-about {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#bottom-about {
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+}
