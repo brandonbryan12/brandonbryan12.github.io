@@ -467,3 +467,7 @@ footer .footer-below {
     text-align: center;
     font-weight: bold;
 }
+
+#gmaps {
+    padding: 0px;
+}
